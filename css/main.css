@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    background-image: url(../img/hd.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.intro-h1{
+border: .3rem solid pink;
+ color: pink;
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+ position: absolute;
+ text-align: center;
+ left: 40%;
+}
+
+#lara{
+    position: relative;
+    width: 9rem;
+    height: 9rem;
+    border-radius: 50%;
+    top: 15rem;
+    left: 28rem;
+}
+#raynne{
+    position: relative;
+    width: 9rem;
+    height: 9rem;
+    border-radius: 50%;
+    top: 15rem;
+    left: 37rem;
+}
+#ellsworth{
+    position: relative;
+    width: 9rem;
+    height: 9rem;
+    border-radius: 50%;
+    top: 25rem;
+    left: 1rem;
+}
+#audrey{
+    position: relative;
+    width: 9rem;
+    height: 9rem;
+    border-radius: 50%;
+    top: 25rem;
+    left: 10rem;
+}
+#angela{
+    position: relative;
+    width: 9rem;
+    height: 9rem;
+    border-radius: 50%;
+    top: 25rem;
+    left: 20rem;
+}
