@@ -1,2 +1,3 @@
 # blankpink
 group activity
+blink
